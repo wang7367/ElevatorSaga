@@ -1,5 +1,5 @@
 {       
-    //Passing rate: 100%
+    //Passing rate: 70%, failure cases mostly need to transport five more person to pass
 	 
     //same idea as the solution of challenge #4
     init: function(elevators, floors) {
