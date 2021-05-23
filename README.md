@@ -1,5 +1,5 @@
 # Challenge Progress
-The current algorithm passes the following challenges. Note that the challenges are partially random, so it may take more than one try to pass a challenge in some cases.
+The current algorithm passes the following challenges. Note that the challenges are random, so it may take more than one try to pass a challenge in some cases. (Approximate passing rates for each challenge are included)
 
 | Challenge | Condition | Status | Passing Rate |
 |---|---|---|---|
@@ -20,4 +20,4 @@ The current algorithm passes the following challenges. Note that the challenges 
 | 15 | Transport 120 people with a maximum wait time of 14 seconds | Failing | 0% |
 | 16 | Transport 70 people in 80 seconds or less | Passing | 100% |
 | 17 | Transport 110 people in 80 seconds or less | Passing | 10% |
-| 18 | Transport 2675 people in 1800 seconds or less with a maximum wait time of 45 seconds | Failing |
+| 18 | Transport 2675 people in 1800 seconds or less with a maximum wait time of 45 seconds | Failing | 0% |
